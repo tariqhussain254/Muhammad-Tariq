@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria: Realms of Trade & Conquest",
+  "description": "Expansive 3D open-world sandbox MMORPG featuring dynamic weather, destructible environments, modular construction, simulated live economy & trading exchange, faction warfare, and character progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
